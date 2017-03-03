@@ -1,0 +1,36 @@
+{
+  "created":"2017-02-28T13:01:53.000Z",
+  "creator":
+  {
+    "displayName":"Quentin Duffeau",
+    "email":"qduffeau@gmail.com",
+    "self":true
+  },
+  "end":
+  {
+    "dateTime":"2017-03-02T15:30:00.000+01:00"
+  },
+  "etag":"\"2976573828038000\"",
+  "htmlLink":"https://www.google.com/calendar/event?eid=aWkydXVoNXU1OWJzMHJ0NTgzNzljamttMWsgcWR1ZmZlYXVAbQ",
+  "iCalUID":"ii2uuh5u59bs0rt58379cjkm1k@google.com",
+  "id":"ii2uuh5u59bs0rt58379cjkm1k",
+  "kind":"calendar#event",
+  "organizer":
+  {
+    "displayName":"Quentin Duffeau",
+    "email":"qduffeau@gmail.com",
+    "self":true
+  },
+  "reminders":
+  {
+    "useDefault":true
+  },
+  "sequence":0,
+  "start":
+  {
+    "dateTime":"2017-03-02T14:30:00.000+01:00"
+  },
+  "status":"confirmed",
+  "summary":"3eme test",
+  "updated":"2017-02-28T13:01:54.019Z"
+}
